@@ -6,7 +6,7 @@ Este repositório contém o desenvolvimento do grupo de Regressão Linear do gru
 
 As instruções de como utilizar este repositório está presentes em [Como utilizar](https://github.com/PANDA-UFSCar/Linear-Regression/blob/main/ComoUsar.md) e devem ser seguidas.
 
-Os materiais referentes ao tópico do grupo podem ser localizados em [Materiais](https://github.com/PANDA-UFSCar/Linear-Regression/issues/1) e podem ser acessados e modificados por qualquer um do grupo.
+Os materiais referentes ao tópico do grupo podem ser localizados em [Materiais](https://github.com/PANDA-UFSCar/Linear-Regression/issues/2) e podem ser acessados e modificados por qualquer um do grupo.
 
 Além disso, caso haja alguma dúvida em relação a algo sobre o repositório, basta abrir uma [Issue](https://github.com/PANDA-UFSCar/Linear-Regression/issues) e submeté-la.
 
