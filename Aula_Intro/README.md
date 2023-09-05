@@ -13,11 +13,11 @@ Esta seção fornece uma visão geral sobre a aula de introdução à regressão
 ### 2. Conteúdo da Aula
 Nesta parte do repositório, você encontrará os seguintes recursos relacionados à aula:
 
-Apresentação em Slides: Os slides usados na aula, que contêm informações teóricas, gráficos e exemplos práticos estão em [Slides](https://github.com/gorlando04/PANDA-Linear-Regression/blob/Gabriel/Aula_Intro/Aula%20Intro%20-%20FINAL.pdf)
+Apresentação em Slides: Os slides usados na aula, que contêm informações teóricas, gráficos e exemplos práticos estão em [Slides](https://github.com/PANDA-UFSCar/Linear-Regression/blob/Gabriel/Aula_Intro/Aula%20Intro%20-%20FINAL.pdf)
 
-Código-fonte: O Notebook com a implementação da aula está disponível em [Notebook](https://github.com/gorlando04/PANDA-Linear-Regression/blob/Gabriel/Aula_Intro/Aula_Intro.ipynb)
+Código-fonte: O Notebook com a implementação da aula está disponível em [Notebook](https://github.com/PANDA-UFSCar/Linear-Regression/blob/Gabriel/Aula_Intro/Aula_Intro.ipynb)
 
-Recursos Adicionais: Links para artigos, vídeos ou materiais de leitura complementares que podem ser úteis para aprofundar o entendimento dos tópicos abordados na aula. [Issue](https://github.com/gorlando04/PANDA-Linear-Regression/issues/1)
+Recursos Adicionais: Links para artigos, vídeos ou materiais de leitura complementares que podem ser úteis para aprofundar o entendimento dos tópicos abordados na aula. [Issue]([https://github.com/gorlando04/PANDA-Linear-Regression](https://github.com/PANDA-UFSCar/Linear-Regression)/issues/2)
 
 ## Agradecimentos 
 
